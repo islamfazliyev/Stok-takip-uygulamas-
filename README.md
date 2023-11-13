@@ -2,10 +2,10 @@ Stok Takip Programı
     Bu proje, Python kullanarak oluşturulmuş bir stok takip programıdır. Program, stokları oluşturma, düzenleme, silme, listeleme ve arama işlevlerini sağlar. Ayrıca, stok hareketlerini izleme, stok raporları oluşturma ve stokları otomatik olarak yönetme gibi gelişmiş işlevler de ekleyebilirsiniz.
 
 İçerik
-    Oluştur sekmesi:
+    Oluştur sekmesi
 
         Stok oluşturma: Stok oluşturmak için oluştur sekmesindeki bilgiler doldurulur ve Ekle düğmesine tıklanır
-        ![oluştur sekmesi](screenshots/olustur.png)
+        
     
     Liste sekmesi:
 
@@ -13,7 +13,7 @@ Stok Takip Programı
         Stok silme: yanlış girdiğiniz stokları liste kısmından stoğu seçtikten sonra Sil düğmesine basarak silebilirsiniz
         Stok seçmek: istediğiniz stoğa basınca bilgileri sol kısımda göterilir
         Stok arama: çok fazla stok olunca arama kısmına stoğun bilgilerini yazarak kolayca erişebilirsiniz
-        ![Liste sekmesi](screenshots/liste.png)
+        
 
 Kütüphaneler
     Program, aşağıdaki kütüphaneleri kullanır:
